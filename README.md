@@ -3,6 +3,7 @@
 This is the working area for the internet-draft, "Strict Mode for HTTP Public Key Pinning".
 
 * [Editor's copy](https://hlandau.github.io/draft-landau-websec-key-pinning-really/)
+
 <!-- * [{DRAFT_STATUS} Draft] (https://tools.ietf.org/html/{DRAFT_NAME}) -->
 
 
