@@ -1,9 +1,9 @@
-# {DRAFT_TITLE}
+# draft-landau-websec-key-pinning-really
 
-This is the working area for the {DRAFT_STATUS} internet-draft, "{DRAFT_TITLE}".
+This is the working area for the internet-draft, "Strict Mode for HTTP Public Key Pinning".
 
-* [Editor's copy](https://{GITHUB_USER}.github.io/{GITHUB_REPO}/)
-* [{DRAFT_STATUS} Draft] (https://tools.ietf.org/html/{DRAFT_NAME})
+* [Editor's copy](https://hlandau.github.io/draft-landau-websec-key-pinning-really/)
+<!-- * [{DRAFT_STATUS} Draft] (https://tools.ietf.org/html/{DRAFT_NAME}) -->
 
 
 ## Building the Draft
